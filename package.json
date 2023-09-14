@@ -1,0 +1,22 @@
+{
+  "name": "holaexpress",
+  "version": "1.0.0",
+  "description": "holamundoexpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GyzusM/holaexpress.git"
+  },
+  "author": "Jesus Moran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GyzusM/holaexpress/issues"
+  },
+  "homepage": "https://github.com/GyzusM/holaexpress#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
